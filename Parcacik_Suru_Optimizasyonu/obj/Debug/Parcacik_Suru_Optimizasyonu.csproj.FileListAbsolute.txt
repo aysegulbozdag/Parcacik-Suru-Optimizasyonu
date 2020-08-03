@@ -1,0 +1,10 @@
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\bin\Debug\Parcacik_Suru_Optimizasyonu.exe.config
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\bin\Debug\Parcacik_Suru_Optimizasyonu.exe
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\bin\Debug\Parcacik_Suru_Optimizasyonu.pdb
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.csprojAssemblyReference.cache
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.Form1.resources
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.Properties.Resources.resources
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.csproj.GenerateResource.cache
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.csproj.CoreCompileInputs.cache
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.exe
+C:\Users\keleb\source\repos\Parcacik_Suru_Optimizasyonu\Parcacik_Suru_Optimizasyonu\obj\Debug\Parcacik_Suru_Optimizasyonu.pdb
